@@ -65,12 +65,11 @@ Dataset complementar sobre métodos de pagamento no Brasil.
 Os dados disponibilizados pelo Banco Central estavam em formato horizontal e exigiram algumas etapas de preparação:
 
     Transformação da estrutura da planilha
-    Remoção de colunas e linhas com valores NaN
     Padronização de nomes de colunas
     Conversão de datas
     Criação de novas variáveis
 
-Também foi criado um backup dos dados originais antes das transformações.
+>Também foi criado um backup dos dados originais antes das transformações.
 
 ---
 
